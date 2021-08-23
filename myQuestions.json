@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Who was elected President of the United States in 2017?",
+        "optionA": "Donald Trump",
+        "optionB": "Barack Obama",
+        "optionC": "George Bush",
+        "optionD": "Osama Bin Laudin",
+        "optionE": "Jerry Springer",
+        "value": "?",
+        "correctAnswer": "A"
+    },
+    {
+        "id": 2,
+        "question": "What is the national language of Canada?",
+        "optionA": "English",
+        "optionB": "Dutch",
+        "optionC": "French",
+        "optionD": "Eskimo",
+        "optionE": "Indian",
+        "value": "?",
+        "correctAnswer": "B"
+    },
+    {
+        "id": 3,
+        "question": "What is the national animal of Pakistan?",
+        "optionA": "Peacock",
+        "optionB": "Doo Doo Bird",
+        "optionC": "Lion",
+        "optionD": "Markhor",
+        "optionE": "Sand Viper",
+        "value": "?",
+        "correctAnswer": "D"
+    },
+   {
+        "id": 4,
+        "question": "Which core ingredient is important to cook a savory dish?",
+        "optionA": "Butter",
+        "optionB": "Sugar",
+        "optionC": "Spices",
+        "optionD": "Lard",
+        "optionE": "Salt",
+        "value": "?",
+        "correctAnswer": "E"
+    },
+    {
+        "id": 5,
+        "question": "What are two things you can never eat for breakfast?",
+        "optionA": "Eggs and Toast",
+        "optionB": "Waffles and Bananas",
+        "optionC": "Lunch and Dinner",
+        "optionD": "Bacon and Spam",
+        "optionE": "Pastries and coffee",
+        "value": "?",
+        "correctAnswer": "C"
+    },
+    {
+        "id": 6,
+        "question": "What gets wetter the more it dries?",
+        "optionA": "prunes",
+        "optionB": "your foot",
+        "optionC": "your other foot",
+        "optionD": "a towel",
+        "optionE": "a lama",
+        "value": "?",
+        "correctAnswer": "D"
+    },
+      {
+        "id": 7,
+        "question": "What can be broken but never held? ",
+        "optionA": "a promise",
+        "optionB": "your x wife",
+        "optionC": "your x husband",
+        "optionD": "your x wife and your x husband",
+        "optionE": "your other foot",
+        "value": "?",
+        "correctAnswer": "B"
+    },
+    {
+        "id": 8,
+        "question": "What never asks a question but gets answered all the time?",
+        "optionA": "dogs",
+        "optionB": "cats",
+        "optionC": "mutant dogCats!",
+        "optionD": "Your Cellphone",
+        "optionE": "Something thats not your cellphone",
+        "value": "?",
+        "correctAnswer": "C"
+    },
+    {
+        "id": 9,
+        "question": "What is another Name for God",
+        "optionA": "Zeus",
+        "optionB": "Aphrodite",
+        "optionC": "Budah",
+        "optionD": "God",
+        "optionE": "...or Allah the above",
+        "value": "?",
+        "correctAnswer": "E"
+    },
+    {
+        "id": 10,
+        "question": "What word is spelled incorrectly in every single dictionary?",
+        "optionA": "definitely",
+        "optionB": "incorrectly",
+        "optionC": "separate",
+        "optionD": "supercalifragilisticexpialidocious",
+        "optionE": "succeed",
+        "value": "?",
+        "correctAnswer": "B"
+    }
+]
